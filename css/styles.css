@@ -67,3 +67,20 @@ h1,h2,h3,h4,h5,h6{
 .bloque-info .bg-success{
     font-weight: 600;
 }
+
+/*Nosotros*/
+.sobre-nosotros h3{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+/*Anuncios*/
+.card-precio{
+    color: #71b100;
+    font-size: 1.1rem;
+}
+.card-descripcion img{
+    margin-right: .5rem;
+}
+
+/*Contacto*/
